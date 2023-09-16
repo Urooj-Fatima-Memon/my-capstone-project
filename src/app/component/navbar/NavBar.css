@@ -1,0 +1,42 @@
+body{
+  box-sizing: border-box;
+}
+
+/* Style the search field */
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid #019D6D;
+  float: left;
+  width: 440px !important;
+  background: #f1f1f1;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+/* Style the submit button */
+form.example button {
+  float: left;
+  width: 18%;
+  padding: 10px;
+  background: #019D6D;
+  color: white;
+  font-size: 17px;
+  border: 1px solid #019D6D;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #019D6D;
+}
+
+/* Clear floats */
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.link-da{
+  color:#019D6D !important ;
+}

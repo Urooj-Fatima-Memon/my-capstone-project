@@ -1,0 +1,81 @@
+.colorr{
+  color:#019D6D ;
+}
+.align{
+  text-align :center !important;
+  align-items: center !important;
+}
+.lef{
+
+  margin-top: -230px !important;
+  width: 100%;
+}
+.imag{
+width: 100%;
+margin-top: -100px !important;
+}
+.color{
+  border-radius: 16px;
+  background: #BDFFEB;
+}
+.nameee{
+  margin-top: -60px !important;
+}
+.butn{
+  color: #FFF;
+font-family: Roboto;
+
+
+background-color:#019D6D ;
+border: none;
+width: 200px;
+height: 50px;
+}
+.butun{
+  border: 1px solid #019D6D;
+  width: 200px;
+  height: 50px; 
+
+}
+button:hover {
+  background: #019D6D;
+}
+.class{
+  color: #000;
+text-align: center;
+font-family: Roboto;
+font-size: 22px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+.colo{
+ background-color:  #FFF8E3;
+ border-radius: 16px;
+}
+.coloro{
+background-color: #D9DAC0  ;
+border-radius: 16px;
+
+}
+.coloo{
+  border-radius: 16px;
+  background: #F7F8FA;
+}
+.lass{
+  color: #000;
+text-align: center;
+  font-family: Roboto;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+.eng{
+  width: 100%;
+}
+.name{
+  text-align: center;
+  
+  margin-left: 70px !important;
+}

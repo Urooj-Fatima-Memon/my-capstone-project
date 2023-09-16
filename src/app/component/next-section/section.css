@@ -1,0 +1,40 @@
+.simple{
+    color: var(--019D6D, #019D6D);
+font-family: Roboto;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.new{
+    color: #7A7A7A;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 29px; /* 145% */
+}
+.pic{
+    
+width: 100%;
+height: 420px;
+flex-shrink: 0;
+}
+.bg-color{
+    width: 1920px;
+height: 908px;
+flex-shrink: 0;
+background: #F7F8FA;
+}
+.but{
+    color: #FFF;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+background-color:#019D6D ;
+border: none;
+width: 230px !important;
+height: 50px;
+}
